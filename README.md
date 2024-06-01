@@ -8,7 +8,7 @@ In my infinite free time, I’m now toying with GitHub READMEs.
 
 <!--
   @@ Try:
-  * https://github.com/lowlighter/metrics
+  * https://github.com/lowlighter/metrics → https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md
   * https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
     - https://doteki.org/docs/
 -->
