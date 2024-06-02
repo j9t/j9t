@@ -4,7 +4,9 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 
 In my infinite free time, I’m now toying with GitHub READMEs.
 
-[![Jens’s public GitHub stats](https://github-readme-stats.vercel.app/api?username=j9t&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Jens’s public GitHub stats.](https://github-readme-stats.vercel.app/api?username=j9t&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jens’s stats as per Metrics.](github-metrics.svg)
 
 <!--
   @@ Try:
