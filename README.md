@@ -4,8 +4,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 
 <!-- @@ Configure further (https://github.com/lowlighter/metrics): -->
 
-<div style="text-align: center;">
-	![Jens’s stats as per Metrics.](github-metrics.svg)
-</div>
+![Jens’s stats as per Metrics.](github-metrics.svg)
 
 <!-- @@ Add dynamic content (e.g., via https://doteki.org/docs/) -->
