@@ -1,0 +1,17 @@
+name: dōteki
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Run dōteki action
+        uses: welpo/doteki-action@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.DOTEKI }}

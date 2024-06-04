@@ -8,4 +8,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 
 [![Jens’s facts.](github-metrics.plugin.habits.facts.svg)](https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md)
 
-<!-- @@ Add dynamic content (e.g., via https://doteki.org/docs/) -->
+## From My Blog (<!-- last_updated start --><!-- last_updated end -->)
+
+<!-- blog start -->
+<!-- blog end -->
