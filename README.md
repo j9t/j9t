@@ -8,7 +8,13 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 
 [![Jens’s facts.](github-metrics.plugin.habits.facts.svg)](https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md)
 
-## From My Blog (<!-- last_updated start --><!-- last_updated end -->)
+## From My Blog (<!-- last_updated start -->2024-06-04<!-- last_updated end -->)
 
 <!-- blog start -->
+- [Death by Experience](https://meiert.com/en/blog/death-by-experience/)
+- [Website Optimization Measures, Part XXIII](https://meiert.com/en/blog/optimization-measures-23/)
+- [When Amazon Just Wipes Your Entire Device Ebook Library](https://meiert.com/en/blog/amazon-kindle-device-library-wipe/)
+- [We Need to Talk More About Conformance, If We Want to Stop Fantasy HTML](https://meiert.com/en/blog/talk-about-html-conformance/)
+- [The Great Tech and People Hypocrisy](https://meiert.com/en/blog/tech-and-people/)
 <!-- blog end -->
+<a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
