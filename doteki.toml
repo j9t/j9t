@@ -4,6 +4,7 @@ url = "https://meiert.com/en/feed/"
 n = 10
 show_date = true
 prepend_text = "## From [My Blog](https://meiert.com/en/)\n\n"
+append_text = ""
 
 [sections.last_updated]
 plugin = "current_date"
