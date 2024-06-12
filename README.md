@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Website Optimization Measures, Part XXIV](https://meiert.com/en/blog/optimization-measures-24/) · 2024-06-11
 - [Death by Experience](https://meiert.com/en/blog/death-by-experience/) · 2024-06-04
 - [Website Optimization Measures, Part XXIII](https://meiert.com/en/blog/optimization-measures-23/) · 2024-05-29
 - [When Amazon Just Wipes Your Entire Device Ebook Library](https://meiert.com/en/blog/amazon-kindle-device-library-wipe/) · 2024-05-23
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Critical Feedback: Four Approaches and One Twist](https://meiert.com/en/blog/critical-feedback/) · 2024-05-02
 - [April 24 Is JS Naked Day](https://meiert.com/en/blog/april-24-is-js-naked-day/) · 2024-04-21
 - [Declining 1:1 Meetings Without a Message Is Rude](https://meiert.com/en/blog/declining-meetings/) · 2024-04-15
-- [Sustainability Trap](https://meiert.com/en/blog/sustainability-trap/) · 2024-03-31
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
