@@ -13,7 +13,8 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
-- [3 Good Reasons for Vegan and Vegetarian “Substitute” Products](https://meiert.com/en/blog/substitution/) · 2024-07-08
+- [Transitive Optimization Considered—Interesting](https://meiert.com/en/blog/transitive-optimization-considered-interesting/) · 2024-07-10
+- [3 Good Reasons for Vegan and Vegetarian “Substitute” Products](https://meiert.com/en/blog/substitution/) · 2024-07-07
 - [The Essence of Veganism](https://meiert.com/en/blog/the-essence-of-veganism/) · 2024-06-30
 - [Know the “search” Element](https://meiert.com/en/blog/know-the-search-element/) · 2024-06-19
 - [The Price of a Dream](https://meiert.com/en/blog/the-price-of-a-dream/) · 2024-06-16
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Website Optimization Measures, Part XXIII](https://meiert.com/en/blog/optimization-measures-23/) · 2024-05-29
 - [When Amazon Just Wipes Your Entire Device Ebook Library](https://meiert.com/en/blog/amazon-kindle-device-library-wipe/) · 2024-05-23
 - [We Need to Talk More About Conformance, If We Want to Stop Fantasy HTML](https://meiert.com/en/blog/talk-about-html-conformance/) · 2024-05-21
-- [The Great Tech and People Hypocrisy](https://meiert.com/en/blog/tech-and-people/) · 2024-05-14
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
