@@ -16,8 +16,8 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [On Title Case](https://meiert.com/en/blog/on-title-case/) · 2024-07-27
 - [Thoughts on CSS in 2024](https://meiert.com/en/blog/css-2024/) · 2024-07-15
 - [Transitive Optimization Considered—Interesting](https://meiert.com/en/blog/transitive-optimization-considered-interesting/) · 2024-07-10
-- [3 Good Reasons for Vegan and Vegetarian “Substitute” Products](https://meiert.com/en/blog/substitution/) · 2024-07-07
-- [The Essence of Veganism](https://meiert.com/en/blog/the-essence-of-veganism/) · 2024-06-30
+- [3 Good Reasons for Vegan and Vegetarian “Substitute” Products](https://meiert.com/en/blog/substitution/) · 2024-06-30
+- [The Essence of Veganism](https://meiert.com/en/blog/the-essence-of-veganism/) · 2024-06-29
 - [Know the “search” Element](https://meiert.com/en/blog/know-the-search-element/) · 2024-06-19
 - [The Price of a Dream](https://meiert.com/en/blog/the-price-of-a-dream/) · 2024-06-16
 - [Website Optimization Measures, Part XXIV](https://meiert.com/en/blog/optimization-measures-24/) · 2024-06-11
