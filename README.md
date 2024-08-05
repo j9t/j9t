@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Calling Someone “Too Old” Is Ageist](https://meiert.com/en/blog/never-too-old/) · 2024-08-04
 - [On Mapping the World of Frontend Development](https://meiert.com/en/blog/the-world-of-frontend-development/) · 2024-07-30
 - [On Title Case](https://meiert.com/en/blog/on-title-case/) · 2024-07-27
 - [Thoughts on CSS in 2024](https://meiert.com/en/blog/css-2024/) · 2024-07-15
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Know the “search” Element](https://meiert.com/en/blog/know-the-search-element/) · 2024-06-19
 - [The Price of a Dream](https://meiert.com/en/blog/the-price-of-a-dream/) · 2024-06-16
 - [Website Optimization Measures, Part XXIV](https://meiert.com/en/blog/optimization-measures-24/) · 2024-06-11
-- [Death by Experience](https://meiert.com/en/blog/death-by-experience/) · 2024-06-04
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
