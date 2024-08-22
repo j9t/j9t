@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Website Optimization Measures, Part XXV](https://meiert.com/en/blog/optimization-measures-25/) · 2024-08-21
 - [A Web Development Term a Day…](https://meiert.com/en/blog/a-web-development-term-a-day/) · 2024-08-19
 - [AI Paradox](https://meiert.com/en/blog/ai-paradox/) · 2024-08-18
 - [Now Available: “Rote Learning HTML & CSS,” the Most Boring Free Ebook Ever](https://meiert.com/en/blog/rote-learning-html-and-css/) · 2024-08-14
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [On Mapping the World of Frontend Development](https://meiert.com/en/blog/the-world-of-frontend-development/) · 2024-07-30
 - [On Title Case](https://meiert.com/en/blog/on-title-case/) · 2024-07-27
 - [Thoughts on CSS in 2024](https://meiert.com/en/blog/css-2024/) · 2024-07-15
-- [Transitive Optimization Considered—Interesting](https://meiert.com/en/blog/transitive-optimization-considered-interesting/) · 2024-07-10
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
