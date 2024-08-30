@@ -13,6 +13,8 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Why I Don’t Block AI Scrapers](https://meiert.com/en/blog/ai-scrapers/) · 2024-08-29
+- [We Always Knew Anyone Could Take Our Content](https://meiert.com/en/blog/the-web-contract/) · 2024-08-29
 - [Website Optimization Measures, Part XXV](https://meiert.com/en/blog/optimization-measures-25/) · 2024-08-21
 - [A Web Development Term a Day…](https://meiert.com/en/blog/a-web-development-term-a-day/) · 2024-08-19
 - [AI Paradox](https://meiert.com/en/blog/ai-paradox/) · 2024-08-18
@@ -21,8 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Feed Sources 2024](https://meiert.com/en/blog/feed-sources-2024/) · 2024-08-07
 - [Calling Someone “Too Old” Is Ageist](https://meiert.com/en/blog/never-too-old/) · 2024-08-04
 - [On Mapping the World of Frontend Development](https://meiert.com/en/blog/the-world-of-frontend-development/) · 2024-07-30
-- [On Title Case](https://meiert.com/en/blog/on-title-case/) · 2024-07-27
-- [Thoughts on CSS in 2024](https://meiert.com/en/blog/css-2024/) · 2024-07-15
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
