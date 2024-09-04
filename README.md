@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Notes on Hooking Up a Website With Cloudflare](https://meiert.com/en/blog/quick-cloudflare/) · 2024-09-03
 - [Imposing on Hearing](https://meiert.com/en/blog/imposing-on-hearing/) · 2024-08-31
 - [Why I Don’t Block AI Scrapers](https://meiert.com/en/blog/ai-scrapers/) · 2024-08-29
 - [We Always Knew Anyone Could Take Our Content](https://meiert.com/en/blog/the-web-contract/) · 2024-08-29
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Now Available: “Rote Learning HTML & CSS,” the Most Boring Free Ebook Ever](https://meiert.com/en/blog/rote-learning-html-and-css/) · 2024-08-14
 - [A Node and Command Line Tool to Find Obsolete HTML](https://meiert.com/en/blog/find-obsolete-html/) · 2024-08-12
 - [Feed Sources 2024](https://meiert.com/en/blog/feed-sources-2024/) · 2024-08-07
-- [Calling Someone “Too Old” Is Ageist](https://meiert.com/en/blog/never-too-old/) · 2024-08-04
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
