@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [On Disagreement](https://meiert.com/en/blog/on-disagreement/) · 2024-09-08
 - [The HTML History and Optimization Cheat Sheet](https://meiert.com/en/blog/html-cheat-sheet/) · 2024-09-05
 - [Notes on Setting Up a Static Website With AWS (Route 53, S3, ACM)](https://meiert.com/en/blog/quick-aws/) · 2024-09-04
 - [Notes on Hooking Up a Website With Cloudflare](https://meiert.com/en/blog/quick-cloudflare/) · 2024-09-03
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Website Optimization Measures, Part XXV](https://meiert.com/en/blog/optimization-measures-25/) · 2024-08-21
 - [A Web Development Term a Day…](https://meiert.com/en/blog/a-web-development-term-a-day/) · 2024-08-19
 - [AI Paradox](https://meiert.com/en/blog/ai-paradox/) · 2024-08-18
-- [Now Available: “Rote Learning HTML & CSS,” the Most Boring Free Ebook Ever](https://meiert.com/en/blog/rote-learning-html-and-css/) · 2024-08-14
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
