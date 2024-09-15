@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [The Assessment Paradox](https://meiert.com/en/blog/the-assessment-paradox/) · 2024-09-14
 - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/) · 2024-09-11
 - [On Disagreement](https://meiert.com/en/blog/on-disagreement/) · 2024-09-08
 - [The HTML History and Optimization Cheat Sheet](https://meiert.com/en/blog/html-cheat-sheet/) · 2024-09-05
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Why I Don’t Block AI Scrapers](https://meiert.com/en/blog/ai-scrapers/) · 2024-08-29
 - [We Always Knew Anyone Could Take Our Content](https://meiert.com/en/blog/the-web-contract/) · 2024-08-29
 - [Website Optimization Measures, Part XXV](https://meiert.com/en/blog/optimization-measures-25/) · 2024-08-21
-- [A Web Development Term a Day…](https://meiert.com/en/blog/a-web-development-term-a-day/) · 2024-08-19
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
