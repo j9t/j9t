@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Untrained Engineering Managers](https://meiert.com/en/blog/untrained-engineering-managers/) · 2024-09-27
 - [Website Optimization Measures, Part XXVI](https://meiert.com/en/blog/optimization-measures-26/) · 2024-09-19
 - [On Ticket Management](https://meiert.com/en/blog/on-ticket-management/) · 2024-09-17
 - [The Assessment Paradox](https://meiert.com/en/blog/the-assessment-paradox/) · 2024-09-14
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Notes on Setting Up a Static Website With AWS (Route 53, S3, ACM)](https://meiert.com/en/blog/quick-aws/) · 2024-09-04
 - [Notes on Hooking Up a Website With Cloudflare](https://meiert.com/en/blog/quick-cloudflare/) · 2024-09-03
 - [Imposing on Hearing](https://meiert.com/en/blog/imposing-on-hearing/) · 2024-08-31
-- [Why I Don’t Block AI Scrapers](https://meiert.com/en/blog/ai-scrapers/) · 2024-08-29
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
