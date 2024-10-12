@@ -13,6 +13,8 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [HTML/CSS Frameworks, in Their Own Words (by Word Cloud)](https://meiert.com/en/blog/html-css-frameworks-words/) · 2024-10-11
+- [JS Frameworks, in Their Own Words (by Word Cloud)](https://meiert.com/en/blog/js-frameworks-words/) · 2024-10-11
 - [Automatable Defensive Core Image Compression With Imagemin Guard 4 (Now With No Imagemin)](https://meiert.com/en/blog/imagemin-guard-4/) · 2024-10-09
 - [What Germany May Not Have Learned From the Holocaust](https://meiert.com/en/blog/violating-one-is-violating-everyone/) · 2024-10-08
 - [Not Knowable](https://meiert.com/en/blog/not-knowable/) · 2024-09-29
@@ -21,8 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [On Ticket Management](https://meiert.com/en/blog/on-ticket-management/) · 2024-09-17
 - [The Assessment Paradox](https://meiert.com/en/blog/the-assessment-paradox/) · 2024-09-14
 - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/) · 2024-09-11
-- [On Disagreement](https://meiert.com/en/blog/on-disagreement/) · 2024-09-08
-- [The HTML History and Optimization Cheat Sheet](https://meiert.com/en/blog/html-cheat-sheet/) · 2024-09-05
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
