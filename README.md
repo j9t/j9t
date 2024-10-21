@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Growth](https://meiert.com/en/blog/growth/) · 2024-10-20
 - [Boring Web Development](https://meiert.com/en/blog/boring-web-development/) · 2024-10-15
 - [HTML/CSS Frameworks, in Their Own Words (by Word Cloud)](https://meiert.com/en/blog/html-css-frameworks-words/) · 2024-10-11
 - [JS Frameworks, in Their Own Words (by Word Cloud)](https://meiert.com/en/blog/js-frameworks-words/) · 2024-10-11
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Untrained Engineering Managers](https://meiert.com/en/blog/untrained-engineering-managers/) · 2024-09-27
 - [Website Optimization Measures, Part XXVI](https://meiert.com/en/blog/optimization-measures-26/) · 2024-09-19
 - [On Ticket Management](https://meiert.com/en/blog/on-ticket-management/) · 2024-09-17
-- [The Assessment Paradox](https://meiert.com/en/blog/the-assessment-paradox/) · 2024-09-14
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
