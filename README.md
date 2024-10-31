@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [The Image Compression Challenge (Donating Money for Excess-Free Projects)](https://meiert.com/en/blog/the-image-compression-challenge/) · 2024-10-30
 - [Website Optimization Measures, Part XXVII](https://meiert.com/en/blog/optimization-measures-27/) · 2024-10-24
 - [Results = ƒ(Competence × Time)](https://meiert.com/en/blog/results-competence-time/) · 2024-10-23
 - [Growth](https://meiert.com/en/blog/growth/) · 2024-10-20
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Automatable Defensive Core Image Compression With Imagemin Guard 4 (Now With No Imagemin)](https://meiert.com/en/blog/imagemin-guard-4/) · 2024-10-09
 - [What Germany May Not Have Learned From the Holocaust](https://meiert.com/en/blog/violating-one-is-violating-everyone/) · 2024-10-08
 - [Not Knowable](https://meiert.com/en/blog/not-knowable/) · 2024-09-29
-- [Untrained Engineering Managers](https://meiert.com/en/blog/untrained-engineering-managers/) · 2024-09-27
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
