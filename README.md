@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [1 + 2 Engineering Team Priorities](https://meiert.com/en/blog/engineering-team-priorities/) · 2024-11-14
 - [8 AI Tips for Web Developers (and Their Careers)](https://meiert.com/en/blog/ai-tips-for-web-developers/) · 2024-11-12
 - [When You Are Rich](https://meiert.com/en/blog/when-you-are-rich/) · 2024-11-10
 - [3 Things to Note About Democracy](https://meiert.com/en/blog/democracy/) · 2024-11-06
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Results = ƒ(Competence × Time)](https://meiert.com/en/blog/results-competence-time/) · 2024-10-23
 - [Growth](https://meiert.com/en/blog/growth/) · 2024-10-20
 - [Boring Web Development](https://meiert.com/en/blog/boring-web-development/) · 2024-10-15
-- [HTML/CSS Frameworks, in Their Own Words (by Word Cloud)](https://meiert.com/en/blog/html-css-frameworks-words/) · 2024-10-11
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
