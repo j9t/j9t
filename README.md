@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Website Optimization Measures, Part XXVIII](https://meiert.com/en/blog/optimization-measures-28/) · 2024-11-29
 - [The Image Compression Challenge Results](https://meiert.com/en/blog/the-image-compression-challenge-results/) · 2024-11-27
 - [Where Has All the Valid HTML Gone](https://meiert.com/en/blog/where-has-all-the-valid-html-gone/) · 2024-11-21
 - [What I Learned About That Difficult Childhood](https://meiert.com/en/blog/that-difficult-childhood/) · 2024-11-17
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [3 Things to Note About Democracy](https://meiert.com/en/blog/democracy/) · 2024-11-06
 - [Everyone Can Set You Up for Failure, Not Everyone Sets You Up for Success](https://meiert.com/en/blog/set-up-for-success/) · 2024-11-02
 - [The Image Compression Challenge (Donating Money for Excess-Free Projects)](https://meiert.com/en/blog/the-image-compression-challenge/) · 2024-10-30
-- [Website Optimization Measures, Part XXVII](https://meiert.com/en/blog/optimization-measures-27/) · 2024-10-24
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
