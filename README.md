@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [What Is HTML Optimization? What Is It Not?](https://meiert.com/en/blog/what-is-html-optimization/) · 2024-12-05
 - [How to Add WebGlossary.info as a Search Engine in Your Browser](https://meiert.com/en/blog/web-development-glossary-search/) · 2024-12-03
 - [Website Optimization Measures, Part XXVIII](https://meiert.com/en/blog/optimization-measures-28/) · 2024-11-29
 - [The Image Compression Challenge Results](https://meiert.com/en/blog/the-image-compression-challenge-results/) · 2024-11-27
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [8 AI Tips for Web Developers (and Their Careers)](https://meiert.com/en/blog/ai-tips-for-web-developers/) · 2024-11-12
 - [When You Are Rich](https://meiert.com/en/blog/when-you-are-rich/) · 2024-11-10
 - [3 Things to Note About Democracy](https://meiert.com/en/blog/democracy/) · 2024-11-06
-- [Everyone Can Set You Up for Failure, Not Everyone Sets You Up for Success](https://meiert.com/en/blog/set-up-for-success/) · 2024-11-02
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
