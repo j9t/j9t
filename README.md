@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [2024](https://meiert.com/en/blog/re-2024/) · 2025-01-01
 - [CSS: How to Indicate Container Overflow, When There Is Overflow](https://meiert.com/en/blog/iff-container-overflow/) · 2024-12-28
 - [The CSS Reset Contradiction](https://meiert.com/en/blog/the-css-reset-contradiction/) · 2024-12-19
 - [HTML Conformance: A Comparison of 6.5 npm Validator Packages (With 1.5 Recommendations)](https://meiert.com/en/blog/html-validator-packages/) · 2024-12-17
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Website Optimization Measures, Part XXVIII](https://meiert.com/en/blog/optimization-measures-28/) · 2024-11-29
 - [The Image Compression Challenge Results](https://meiert.com/en/blog/the-image-compression-challenge-results/) · 2024-11-27
 - [Where Has All the Valid HTML Gone](https://meiert.com/en/blog/where-has-all-the-valid-html-gone/) · 2024-11-21
-- [What I Learned About That Difficult Childhood](https://meiert.com/en/blog/that-difficult-childhood/) · 2024-11-17
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
