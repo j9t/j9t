@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [My 18-Months Rule for Open-Source Contributions](https://meiert.com/en/blog/an-open-source-rule/) · 2025-01-16
 - [An Overview of the 50 Highest-Ranking Web Design and Development Glossaries](https://meiert.com/en/blog/tech-glossaries-overview/) · 2025-01-07
 - [2024](https://meiert.com/en/blog/re-2024/) · 2025-01-01
 - [CSS: How to Indicate Container Overflow, When There Is Overflow](https://meiert.com/en/blog/iff-container-overflow/) · 2024-12-28
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [What Is HTML Optimization? What Is It Not?](https://meiert.com/en/blog/what-is-html-optimization/) · 2024-12-05
 - [How to Add WebGlossary.info as a Search Engine in Your Browser](https://meiert.com/en/blog/web-development-glossary-search/) · 2024-12-03
 - [Website Optimization Measures, Part XXVIII](https://meiert.com/en/blog/optimization-measures-28/) · 2024-11-29
-- [The Image Compression Challenge Results](https://meiert.com/en/blog/the-image-compression-challenge-results/) · 2024-11-27
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
