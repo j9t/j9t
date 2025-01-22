@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Website Optimization Measures, Part XXIX](https://meiert.com/en/blog/optimization-measures-29/) · 2025-01-21
 - [My 18-Months Rule for Open-Source Contributions](https://meiert.com/en/blog/an-open-source-rule/) · 2025-01-16
 - [An Overview of the 50 Highest-Ranking Web Design and Development Glossaries](https://meiert.com/en/blog/tech-glossaries-overview/) · 2025-01-07
 - [2024](https://meiert.com/en/blog/re-2024/) · 2025-01-01
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [When We Need Systems, Processes, and Conventions](https://meiert.com/en/blog/systems-processes-conventions/) · 2024-12-11
 - [What Is HTML Optimization? What Is It Not?](https://meiert.com/en/blog/what-is-html-optimization/) · 2024-12-05
 - [How to Add WebGlossary.info as a Search Engine in Your Browser](https://meiert.com/en/blog/web-development-glossary-search/) · 2024-12-03
-- [Website Optimization Measures, Part XXVIII](https://meiert.com/en/blog/optimization-measures-28/) · 2024-11-29
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
