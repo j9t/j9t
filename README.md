@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [On Making Sure Everyone Is Taken Care Of](https://meiert.com/en/blog/on-making-sure-everyone-is-taken-care-of/) · 2025-02-09
 - [DORA, SPACE, DevEx, DX Core 4](https://meiert.com/en/blog/dora-space-devex-dx-core-4/) · 2025-02-05
 - [The Donkey and the Rabbit](https://meiert.com/en/blog/the-donkey-and-the-rabbit/) · 2025-02-02
 - [On Building AI Understanding and Automation Muscle (With 18 Random Problems Solved With AI)](https://meiert.com/en/blog/ai-understanding-automation-muscle-random-problems/) · 2025-01-29
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [My 18-Months Rule for Open-Source Contributions](https://meiert.com/en/blog/an-open-source-rule/) · 2025-01-16
 - [An Overview of the 50 Highest-Ranking Web Design and Development Glossaries](https://meiert.com/en/blog/tech-glossaries-overview/) · 2025-01-07
 - [2024](https://meiert.com/en/blog/re-2024/) · 2025-01-01
-- [CSS: How to Indicate Container Overflow, When There Is Overflow](https://meiert.com/en/blog/iff-container-overflow/) · 2024-12-28
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
