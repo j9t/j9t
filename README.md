@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [New to Web Development? Run Your Own Website](https://meiert.com/en/blog/new-to-web-development/) · 2025-02-27
 - [On Deciding Who We Are](https://meiert.com/en/blog/on-deciding-who-we-are/) · 2025-02-25
 - [Order Force in HTML?](https://meiert.com/en/blog/order-force-in-html/) · 2025-02-19
 - [Testing 10 JavaScript Frameworks on Their HTML Defaults](https://meiert.com/en/blog/javascript-framework-html-defaults/) · 2025-02-12
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [On Building AI Understanding and Automation Muscle (With 18 Random Problems Solved With AI)](https://meiert.com/en/blog/ai-understanding-automation-muscle-random-problems/) · 2025-01-29
 - [Private Property](https://meiert.com/en/blog/private-property/) · 2025-01-26
 - [Cool URLs Don’t Change, Unless…](https://meiert.com/en/blog/cool-urls-dont-change-unless/) · 2025-01-23
-- [Website Optimization Measures, Part XXIX](https://meiert.com/en/blog/optimization-measures-29/) · 2025-01-21
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
