@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [A Moratorium on Men Making Major Decisions](https://meiert.com/en/blog/moratorium/) · 2025-03-09
 - [DeepSeek and HTML](https://meiert.com/en/blog/deepseek-and-html/) · 2025-03-07
 - [On Ethics in Web Development (With a Brief Overview of Ethical Theories)](https://meiert.com/en/blog/on-ethics-in-web-development/) · 2025-03-06
 - [Website Optimization Measures, Part XXX](https://meiert.com/en/blog/optimization-measures-30/) · 2025-03-03
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Testing 10 JavaScript Frameworks on Their HTML Defaults](https://meiert.com/en/blog/javascript-framework-html-defaults/) · 2025-02-12
 - [On Making Sure Everyone Is Taken Care Of](https://meiert.com/en/blog/on-making-sure-everyone-is-taken-care-of/) · 2025-02-09
 - [DORA, SPACE, DevEx, DX Core 4](https://meiert.com/en/blog/dora-space-devex-dx-core-4/) · 2025-02-05
-- [The Donkey and the Rabbit](https://meiert.com/en/blog/the-donkey-and-the-rabbit/) · 2025-02-02
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
