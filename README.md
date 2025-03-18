@@ -14,7 +14,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 ## From [My Blog](https://meiert.com/en/)
 
 - [Prisoner’s Dilemma](https://meiert.com/en/blog/prisoners-dilemma/) · 2025-03-16
-- [Forwarding Appreciated: A WhatsApp Link Sharing Bug That Cannot Be Reported](https://meiert.com/en/blog/whatsapp-and-link-sharing/) · 2025-03-12
+- [Forwarding Appreciated: A WhatsApp [and Signal and LinkedIn] Link Sharing Bug That Cannot Be Reported](https://meiert.com/en/blog/whatsapp-and-link-sharing/) · 2025-03-12
 - [A Moratorium on Men Making Major Decisions](https://meiert.com/en/blog/moratorium/) · 2025-03-09
 - [DeepSeek and HTML](https://meiert.com/en/blog/deepseek-and-html/) · 2025-03-07
 - [On Ethics in Web Development (With a Brief Overview of Ethical Theories)](https://meiert.com/en/blog/on-ethics-in-web-development/) · 2025-03-06
