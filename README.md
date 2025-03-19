@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/en/)
 
+- [Utilization](https://meiert.com/en/blog/utilization/) · 2025-03-18
 - [Prisoner’s Dilemma](https://meiert.com/en/blog/prisoners-dilemma/) · 2025-03-16
 - [Forwarding Appreciated: A WhatsApp [and Signal and LinkedIn] Link Sharing Bug That Cannot Be Reported](https://meiert.com/en/blog/whatsapp-and-link-sharing/) · 2025-03-12
 - [A Moratorium on Men Making Major Decisions](https://meiert.com/en/blog/moratorium/) · 2025-03-09
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [New to Web Development? Run Your Own Website](https://meiert.com/en/blog/new-to-web-development/) · 2025-02-27
 - [On Deciding Who We Are](https://meiert.com/en/blog/on-deciding-who-we-are/) · 2025-02-25
 - [Order Force in HTML?](https://meiert.com/en/blog/order-force-in-html/) · 2025-02-19
-- [Testing 10 JavaScript Frameworks on Their HTML Defaults](https://meiert.com/en/blog/javascript-framework-html-defaults/) · 2025-02-12
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
