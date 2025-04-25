@@ -1,4 +1,4 @@
-Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.com/en/), [Frontend Dogma](https://frontenddogma.com/), [WebGlossary.info](https://webglossary.info/), any of [my books](https://www.goodreads.com/author/list/13623828.Jens_Oliver_Meiert), or maybe one of my small projects (like [The World’s Highest Website](https://worlds-highest-website.com/), or something that I’ve [archived](https://mirrors.meiert.org/)).
+Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.com/), [Frontend Dogma](https://frontenddogma.com/), [WebGlossary.info](https://webglossary.info/), any of [my books](https://www.goodreads.com/author/list/13623828.Jens_Oliver_Meiert), or maybe one of my small projects (like [The World’s Highest Website](https://worlds-highest-website.com/), or something that I’ve [archived](https://mirrors.meiert.org/)).
 
 <!-- Metrics -->
 
@@ -11,7 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- dōteki -->
 
 <!-- blog start -->
-## From [My Blog](https://meiert.com/en/)
+## From [My Blog](https://meiert.com/)
 
 - [Eleventy: A GitHub Workflow to Check if an Automated Dependency Update Would Break Your Site](https://meiert.com/blog/eleventy-github-workflow/)
 - [How I Run Eleventy (It’s Complicated?)](https://meiert.com/blog/how-i-run-eleventy/)
