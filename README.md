@@ -13,16 +13,16 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
-- [Eleventy: A GitHub Workflow to Check if an Automated Dependency Update Would Break Your Site](https://meiert.com/blog/eleventy-github-workflow/)
-- [How I Run Eleventy (It’s Complicated?)](https://meiert.com/blog/how-i-run-eleventy/)
-- [5 Ways to Reduce HTML File Size on Your Website, Step 0](https://meiert.com/blog/reduce-html-file-size/)
-- [Empathy](https://meiert.com/blog/empathy/)
-- [New Book: Tara (A Utopia)](https://meiert.com/blog/tara/)
-- [Micro-Scrum](https://meiert.com/blog/micro-scrum/)
-- [Markup Languages](https://meiert.com/blog/markup-languages/)
-- [Where to Put a Mouse or Trackpad](https://meiert.com/blog/mouse-or-trackpad-placement/)
-- [Where Frontend Dogma Gets Its News From](https://meiert.com/blog/frontend-dogma-news/)
-- [Utilization](https://meiert.com/blog/utilization/)
+- [Eleventy: A GitHub Workflow to Check if an Automated Dependency Update Would Break Your Site](https://meiert.com/blog/eleventy-github-workflow/) · 2025-04-21
+- [How I Run Eleventy (It’s Complicated?)](https://meiert.com/blog/how-i-run-eleventy/) · 2025-04-17
+- [5 Ways to Reduce HTML File Size on Your Website, Step 0](https://meiert.com/blog/reduce-html-file-size/) · 2025-04-15
+- [Empathy](https://meiert.com/blog/empathy/) · 2025-04-05
+- [New Book: Tara (A Utopia)](https://meiert.com/blog/tara/) · 2025-04-02
+- [Micro-Scrum](https://meiert.com/blog/micro-scrum/) · 2025-03-31
+- [Markup Languages](https://meiert.com/blog/markup-languages/) · 2025-03-27
+- [Where to Put a Mouse or Trackpad](https://meiert.com/blog/mouse-or-trackpad-placement/) · 2025-03-22
+- [Where Frontend Dogma Gets Its News From](https://meiert.com/blog/frontend-dogma-news/) · 2025-03-19
+- [Utilization](https://meiert.com/blog/utilization/) · 2025-03-17
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
