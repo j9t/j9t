@@ -1,6 +1,6 @@
 [sections.blog]
 plugin = "feed"
-url = "https://meiert.com/en/feed/"
+url = "https://meiert.com/feed/"
 n = 10
 show_date = true
 prepend_text = "## From [My Blog](https://meiert.com/)\n\n"
