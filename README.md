@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [10 Things I Learned Applying to 200 Positions in 1 Year](https://meiert.com/blog/200-applications-in-1-year/) · 2025-05-21
 - [How Often Should We Speak About HTML Conformance?](https://meiert.com/blog/speaking-about-html-conformance/) · 2025-05-13
 - [Website Optimization Measures, Part XXXI](https://meiert.com/blog/optimization-measures-31/) · 2025-05-07
 - [Ethics in Tech: On an Issue Particularly Sensitive to Germans](https://meiert.com/blog/on-an-ethical-issue/) · 2025-05-05
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Eleventy: A GitHub Workflow to Check if an Automated Dependency Update Would Break Your Site](https://meiert.com/blog/eleventy-github-workflow/) · 2025-04-21
 - [How I Run Eleventy (It’s Complicated?)](https://meiert.com/blog/how-i-run-eleventy/) · 2025-04-17
 - [5 Ways to Reduce HTML File Size on Your Website, Step 0](https://meiert.com/blog/reduce-html-file-size/) · 2025-04-15
-- [Empathy](https://meiert.com/blog/empathy/) · 2025-04-05
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
