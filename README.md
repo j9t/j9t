@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Lifeform User Story](https://meiert.com/blog/lifeform-user-story/) · 2025-05-31
 - [Another Look at Productivity and How to Influence It: Ability, Attitude, Tooling](https://meiert.com/blog/another-look-at-productivity/) · 2025-05-28
 - [The Magic of the Most Minimal HTML Possible (and Why We Don’t Make Use of It)](https://meiert.com/blog/minimal-html-magic/) · 2025-05-26
 - [The Problems With Being an Influencer With Millions of Followers](https://meiert.com/blog/influencer-problems/) · 2025-05-24
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Ethics in Tech: On an Issue Particularly Sensitive to Germans](https://meiert.com/blog/on-an-ethical-issue/) · 2025-05-05
 - [Web Development Has a Short-Term Memory](https://meiert.com/blog/short-term-memory/) · 2025-04-30
 - [Jens Oliver Meiert: How WebStorm and AI Assistant Fit Right Into My Workflow](https://blog.jetbrains.com/webstorm/2025/04/jens-oliver-meiert-how-webstorm-and-ai-assistant-fit-right-into-my-workflow/) · 2025-04-28
-- [Connection to the Environment](https://meiert.com/blog/connection-to-the-environment/) · 2025-04-25
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
