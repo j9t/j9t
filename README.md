@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [My War, Genocide, and Misanthropy Policy](https://meiert.com/blog/my-war-genocide-and-misanthropy-policy/) · 2025-06-21
 - [CSS: The Pain Is Real](https://meiert.com/blog/css-the-pain-is-real/) · 2025-06-18
 - [This Is My Child](https://meiert.com/blog/this-is-my-child/) · 2025-06-14
 - [Speed, Cost, Quality, Choose 2 = Pragmatism, Passion, or Perfectionism](https://meiert.com/blog/pragmatism-passion-or-perfectionism/) · 2025-06-10
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [The Magic of the Most Minimal HTML Possible (and Why We Don’t Make Use of It)](https://meiert.com/blog/minimal-html-magic/) · 2025-05-26
 - [The Problems With Being an Influencer With Millions of Followers](https://meiert.com/blog/influencer-problems/) · 2025-05-24
 - [10 Things I Learned Applying to 200 Positions in 1 Year](https://meiert.com/blog/200-applications-in-1-year/) · 2025-05-21
-- [How Often Should We Speak About HTML Conformance?](https://meiert.com/blog/speaking-about-html-conformance/) · 2025-05-13
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
