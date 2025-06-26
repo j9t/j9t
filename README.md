@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Website Optimization Measures, Part XXXII](https://meiert.com/blog/optimization-measures-32/) · 2025-06-24
 - [My War, Genocide, and Misanthropy Policy](https://meiert.com/blog/my-war-genocide-and-misanthropy-policy/) · 2025-06-21
 - [CSS: The Pain Is Real](https://meiert.com/blog/css-the-pain-is-real/) · 2025-06-18
 - [This Is My Child](https://meiert.com/blog/this-is-my-child/) · 2025-06-14
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Another Look at Productivity and How to Influence It: Ability, Attitude, Tooling](https://meiert.com/blog/another-look-at-productivity/) · 2025-05-28
 - [The Magic of the Most Minimal HTML Possible (and Why We Don’t Make Use of It)](https://meiert.com/blog/minimal-html-magic/) · 2025-05-26
 - [The Problems With Being an Influencer With Millions of Followers](https://meiert.com/blog/influencer-problems/) · 2025-05-24
-- [10 Things I Learned Applying to 200 Positions in 1 Year](https://meiert.com/blog/200-applications-in-1-year/) · 2025-05-21
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
