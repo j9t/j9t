@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [What Counter-Strike Taught Me About A__holes](https://meiert.com/blog/counter-strike-and-a-holes/) · 2025-07-05
 - [How to Identify Your Unknown Unknowns in Web Development](https://meiert.com/blog/identify-your-unknown-unknowns/) · 2025-07-01
 - [German Holocaust Remembrance Culture Is Dead Inside](https://meiert.com/blog/german-holocaust-remembrance-culture/) · 2025-06-28
 - [Website Optimization Measures, Part XXXII](https://meiert.com/blog/optimization-measures-32/) · 2025-06-24
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Speed, Cost, Quality, Choose 2 = Pragmatism, Passion, or Perfectionism](https://meiert.com/blog/pragmatism-passion-or-perfectionism/) · 2025-06-10
 - [Ethics: On the Suspicion That Utilitarianism Is Failing Us](https://meiert.com/blog/utilitarianism/) · 2025-06-06
 - [Lifeform User Story](https://meiert.com/blog/lifeform-user-story/) · 2025-05-31
-- [Another Look at Productivity and How to Influence It: Ability, Attitude, Tooling](https://meiert.com/blog/another-look-at-productivity/) · 2025-05-28
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
