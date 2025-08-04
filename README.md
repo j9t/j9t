@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [The Great Disappointment](https://meiert.com/blog/the-great-disappointment/) · 2025-08-02
 - [A Chromium Browser Extension to Counter Warmongering, Genocidal, Misanthropic Actors](https://meiert.com/blog/anti-war-anti-genocide-anti-misanthropy/) · 2025-07-26
 - [Why and How to Write Minimal and Valid HTML, a Link Guide](https://meiert.com/blog/minimal-and-valid-html/) · 2025-07-23
 - [Naked and Semantic](https://shows.acast.com/dead-code/episodes/naked-and-semantic-with-fabien-basmaison-and-jens-oliver-mei) · 2025-07-14
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [German Holocaust Remembrance Culture Is Dead Inside](https://meiert.com/blog/german-holocaust-remembrance-culture/) · 2025-06-28
 - [Website Optimization Measures, Part XXXII](https://meiert.com/blog/optimization-measures-32/) · 2025-06-24
 - [My War, Genocide, and Misanthropy Policy](https://meiert.com/blog/my-war-genocide-and-misanthropy-policy/) · 2025-06-21
-- [CSS: The Pain Is Real](https://meiert.com/blog/css-the-pain-is-real/) · 2025-06-18
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
