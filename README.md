@@ -1,4 +1,4 @@
-Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.com/), [Frontend Dogma](https://frontenddogma.com/), [WebGlossary.info](https://webglossary.info/), any of [my books](https://www.goodreads.com/author/list/13623828.Jens_Oliver_Meiert), or maybe one of my small projects (like [The World’s Highest Website](https://worlds-highest-website.com/), or something that I’ve [archived](https://mirrors.meiert.org/)).
+Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.com/), [Frontend Dogma](https://frontenddogma.com/), [WebGlossary.info](https://webglossary.info/), any of [my books](https://www.goodreads.com/author/list/13623828.Jens_Oliver_Meiert), an initiative like [CSS Naked Day](https://css-naked-day.org/) or an open-source project like [HTML Minifier Next](https://github.com/j9t/html-minifier-next) or an experiment like [The World’s Highest Website](https://worlds-highest-website.com/)—or something else, like something I’ve [archived](https://mirrors.meiert.org/).
 
 <!-- Metrics -->
 
