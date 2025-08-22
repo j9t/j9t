@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Tech Is Political: Take More Action Against Countries and Organizations Engaged in Wars, Genocides, and Misanthropy](https://meiert.com/blog/tech-is-political-take-more-action/) · 2025-08-20
 - [Should We Never Use Non-Logical Properties?](https://meiert.com/blog/non-logical-properties/) · 2025-08-07
 - [The Great Disappointment](https://meiert.com/blog/the-great-disappointment/) · 2025-08-02
 - [A Chromium Browser Extension to Counter Warmongering, Genocidal, Misanthropic Actors](https://meiert.com/blog/anti-war-anti-genocide-anti-misanthropy/) · 2025-07-26
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [What Counter-Strike Taught Me About A__holes](https://meiert.com/blog/counter-strike-and-a-holes/) · 2025-07-05
 - [How to Identify Your Unknown Unknowns in Web Development](https://meiert.com/blog/identify-your-unknown-unknowns/) · 2025-07-01
 - [German Holocaust Remembrance Culture Is Dead Inside](https://meiert.com/blog/german-holocaust-remembrance-culture/) · 2025-06-28
-- [Website Optimization Measures, Part XXXII](https://meiert.com/blog/optimization-measures-32/) · 2025-06-24
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
