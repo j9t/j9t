@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [.htaccess: A Helper Script to Easily Block Website Traffic by Country](https://meiert.com/blog/block-traffic-by-country-via-htaccess/) · 2025-09-02
 - [On Trust](https://meiert.com/blog/on-trust/) · 2025-08-30
 - [Why You Absolutely Need to Have Automated Dependency Management in Place](https://meiert.com/blog/automated-dependency-management/) · 2025-08-27
 - [Tech Is Political: Take More Action Against Countries and Organizations Engaged in Wars, Genocides, and Misanthropy](https://meiert.com/blog/tech-is-political-take-more-action/) · 2025-08-20
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Why and How to Write Minimal and Valid HTML, a Link Guide](https://meiert.com/blog/minimal-and-valid-html/) · 2025-07-23
 - [Naked and Semantic](https://shows.acast.com/dead-code/episodes/naked-and-semantic-with-fabien-basmaison-and-jens-oliver-mei) · 2025-07-14
 - [HTML Minifier Next (a Maintained Fork of HTML Minifier)](https://meiert.com/blog/html-minifier-next/) · 2025-07-08
-- [What Counter-Strike Taught Me About A__holes](https://meiert.com/blog/counter-strike-and-a-holes/) · 2025-07-05
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
