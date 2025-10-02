@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Website Optimization Measures, Part XXXIII](https://meiert.com/blog/optimization-measures-33/) · 2025-09-30
 - [AI: The Real Problem Engineering Leaders Need to Have a Solution For](https://meiert.com/blog/the-real-ai-problem/) · 2025-09-23
 - [No Islamophobia](https://meiert.com/blog/no-islamophobia/) · 2025-09-20
 - [How the Anti-AI Movement Hurts Itself (and What It Could Do Instead)](https://meiert.com/blog/the-anti-ai-movement/) · 2025-09-17
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [On Trust](https://meiert.com/blog/on-trust/) · 2025-08-30
 - [Why You Absolutely Need to Have Automated Dependency Management in Place](https://meiert.com/blog/automated-dependency-management/) · 2025-08-27
 - [Tech Is Political: Take More Action Against Countries and Organizations Engaged in Wars, Genocides, and Misanthropy](https://meiert.com/blog/tech-is-political-take-more-action/) · 2025-08-20
-- [Should We Never Use Non-Logical Properties?](https://meiert.com/blog/non-logical-properties/) · 2025-08-07
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
