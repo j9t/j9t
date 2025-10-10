@@ -13,6 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [HTML—the Most Difficult Programming Language in the World](https://meiert.com/blog/the-most-difficult-programming-language/) · 2025-10-08
 - [The Other Problem With Not Helping an Entire People Being Murdered in a Genocide](https://meiert.com/blog/not-helping-a-people/) · 2025-10-04
 - [Website Optimization Measures, Part XXXIII](https://meiert.com/blog/optimization-measures-33/) · 2025-09-30
 - [AI: The Real Problem Engineering Leaders Need to Have a Solution For](https://meiert.com/blog/the-real-ai-problem/) · 2025-09-23
@@ -22,7 +23,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [2025: 0 of the Global Top 200 Websites Use Valid HTML](https://meiert.com/blog/html-conformance-2025/) · 2025-09-09
 - [.htaccess: A Helper Script to Easily Block Website Traffic by Country](https://meiert.com/blog/block-traffic-by-country-via-htaccess/) · 2025-09-02
 - [On Trust](https://meiert.com/blog/on-trust/) · 2025-08-30
-- [Why You Absolutely Need to Have Automated Dependency Management in Place](https://meiert.com/blog/automated-dependency-management/) · 2025-08-27
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
