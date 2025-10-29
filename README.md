@@ -6,8 +6,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 
 [![Jens’s calendar.](github-metrics.plugin.isocalendar.fullyear.svg)](https://github.com/lowlighter/metrics/blob/master/source/plugins/isocalendar/README.md)
 
-[![Jens’s facts.](github-metrics.plugin.habits.facts.svg)](https://github.com/lowlighter/metrics/blob/master/source/plugins/habits/README.md)
-
 <!-- dōteki -->
 
 <!-- blog start -->

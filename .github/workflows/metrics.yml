@@ -4,7 +4,8 @@ on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push:
+    branches: [main]
   # (optional) Run workflow manually
   workflow_dispatch:
 
@@ -27,13 +28,3 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-      - name: Facts
-        uses: lowlighter/metrics@latest
-        with:
-          filename: github-metrics.plugin.habits.facts.svg
-          token: ${{ secrets.METRICS }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          config_timezone: Europe/Paris
