@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Now Available: “On Web Development II”!](https://meiert.com/blog/on-web-development-2/) · 2025-11-05
 - [HTML Minifier Next: Now With Lightning CSS](https://meiert.com/blog/html-minifier-next-and-lightning-css/) · 2025-11-04
 - [The Economy Is Important Because](https://meiert.com/blog/the-economy/) · 2025-11-01
 - [HTML Minifier Next: Improved Minification, More Comprehensive CLI, Clearer Docs](https://meiert.com/blog/html-minifier-next-updates/) · 2025-10-28
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [HTML—the Most Difficult Programming Language in the World](https://meiert.com/blog/the-most-difficult-programming-language/) · 2025-10-08
 - [The Other Problem With Not Helping an Entire People Being Murdered in a Genocide](https://meiert.com/blog/not-helping-a-people/) · 2025-10-04
 - [Website Optimization Measures, Part XXXIII](https://meiert.com/blog/optimization-measures-33/) · 2025-09-30
-- [AI: The Real Problem Engineering Leaders Need to Have a Solution For](https://meiert.com/blog/the-real-ai-problem/) · 2025-09-23
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
