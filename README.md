@@ -11,7 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
-- [Feed Special: Get “On Web Development II” for 50% Off](https://leanpub.com/on-web-development-2/c/feed) · 2025-11-09
+- [A Suggestion for Your Community Terms and Policies](https://meiert.com/blog/community-terms/) · 2025-11-12
 - [3 User-Friendly Technical Ways to Respond to Genocidistan](https://meiert.com/blog/genocidistan/) · 2025-11-08
 - [Now Available: “On Web Development II”!](https://meiert.com/blog/on-web-development-2/) · 2025-11-05
 - [HTML Minifier Next: Now With Lightning CSS](https://meiert.com/blog/html-minifier-next-and-lightning-css/) · 2025-11-04
