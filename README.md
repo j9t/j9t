@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Website Optimization Measures, Part XXXIV](https://meiert.com/blog/optimization-measures-34/) · 2025-11-17
 - [A Suggestion for Your Community Terms and Policies](https://meiert.com/blog/community-terms/) · 2025-11-12
 - [3 User-Friendly Technical Ways to Respond to Genocidistan](https://meiert.com/blog/genocidistan/) · 2025-11-08
 - [Now Available: “On Web Development II”!](https://meiert.com/blog/on-web-development-2/) · 2025-11-05
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Nostr: How to Generate Your Keys Locally](https://meiert.com/blog/nostr-keys/) · 2025-10-26
 - [Everyone Should Earn the Same](https://meiert.com/blog/earn-the-same/) · 2025-10-25
 - [Millionaires and Billionaires](https://meiert.com/blog/millionaires-and-billionaires/) · 2025-10-18
-- [HTML—the Most Difficult Programming Language in the World](https://meiert.com/blog/the-most-difficult-programming-language/) · 2025-10-08
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
