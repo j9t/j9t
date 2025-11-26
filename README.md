@@ -11,14 +11,14 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [A Minimal CSS Starter](https://meiert.com/blog/a-minimal-css-starter/) · 2025-11-24
 - [Psychology, Philosophy](https://meiert.com/blog/psychology-philosophy/) · 2025-11-22
 - [Website Optimization Measures, Part XXXIV](https://meiert.com/blog/optimization-measures-34/) · 2025-11-17
 - [A Suggestion for Your Community Terms and Policies](https://meiert.com/blog/community-terms/) · 2025-11-12
 - [3 User-Friendly Technical Ways to Respond to Genocidistan](https://meiert.com/blog/genocidistan/) · 2025-11-08
-- [Now Available: “On Web Development II”!](https://meiert.com/blog/on-web-development-2/) · 2025-11-05
-- [HTML Minifier Next: Now With Lightning CSS](https://meiert.com/blog/html-minifier-next-and-lightning-css/) · 2025-11-04
+- [On Web Development II](https://meiert.com/blog/on-web-development-2/) · 2025-11-05
+- [HTML Minifier Next: Improved Minification, More Comprehensive CLI, Clearer Docs (and a Switch to Lightning CSS)](https://meiert.com/blog/html-minifier-next-updates/) · 2025-11-04
 - [The Economy Is Important Because](https://meiert.com/blog/the-economy/) · 2025-11-01
-- [HTML Minifier Next: Improved Minification, More Comprehensive CLI, Clearer Docs](https://meiert.com/blog/html-minifier-next-updates/) · 2025-10-28
 - [Nostr: How to Generate Your Keys Locally](https://meiert.com/blog/nostr-keys/) · 2025-10-26
 - [Everyone Should Earn the Same](https://meiert.com/blog/earn-the-same/) · 2025-10-25
 <!-- blog end -->
