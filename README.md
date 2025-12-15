@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [A Secret](https://meiert.com/blog/a-secret/) · 2025-12-13
 - [HTML Minifier Next: Presets, New Config Options, Minification Sharing, and Type Definitions](https://meiert.com/blog/html-minifier-next-updates-2/) · 2025-12-10
 - [Comparing HTML Minifiers](https://meiert.com/blog/comparing-html-minifiers/) · 2025-12-07
 - [HTML Semantics: The Short Descriptions of All 113 Elements](https://meiert.com/blog/html-semantics-overview/) · 2025-12-02
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Website Optimization Measures, Part XXXIV](https://meiert.com/blog/optimization-measures-34/) · 2025-11-17
 - [A Suggestion for Your Community Terms and Policies](https://meiert.com/blog/community-terms/) · 2025-11-12
 - [3 User-Friendly Technical Ways to Respond to Genocidistan](https://meiert.com/blog/genocidistan/) · 2025-11-08
-- [On Web Development II](https://meiert.com/blog/on-web-development-2/) · 2025-11-05
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
