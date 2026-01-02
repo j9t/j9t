@@ -1,4 +1,4 @@
-name: dōteki
+name: "dōteki"
 
 on:
   schedule: [{cron: "0 0 * * *"}]
@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Run dōteki action
+      - name: "Run dōteki action"
         uses: welpo/doteki-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.DOTEKI }}
