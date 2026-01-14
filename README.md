@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [The Largest Web Development Glossary, Now as a JetBrains IDE Plugin](https://meiert.com/blog/web-development-glossary-jetbrains-plugin/) · 2026-01-12
 - [HTML Minifier Next: Even Faster, JavaScript Minification With SWC, SVG Minification](https://meiert.com/blog/html-minifier-next-updates-3/) · 2026-01-05
 - [2025](https://meiert.com/blog/re-2025/) · 2025-12-31
 - [Open-Source Funding: Do We Need a “No Maintenance” Month?](https://meiert.com/blog/no-maintenance-month/) · 2025-12-17
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [HTML Semantics: The Short Descriptions of All 113 Elements](https://meiert.com/blog/html-semantics-overview/) · 2025-12-02
 - [Eleventy: How to Set Up Effective HTML Minification (in 24 Seconds)](https://meiert.com/blog/eleventy-html-minification/) · 2025-11-27
 - [A Minimal CSS Starter](https://meiert.com/blog/a-minimal-css-starter/) · 2025-11-24
-- [Psychology, Philosophy](https://meiert.com/blog/psychology-philosophy/) · 2025-11-22
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
