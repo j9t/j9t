@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Website Optimization Measures, Part XXXV](https://meiert.com/blog/optimization-measures-35/) · 2026-01-20
 - [On Navigating a World That Burns and Suffers](https://meiert.com/blog/a-world-that-burns/) · 2026-01-17
 - [The Largest Web Development Glossary, Now as a JetBrains IDE Plugin](https://meiert.com/blog/web-development-glossary-jetbrains-plugin/) · 2026-01-12
 - [HTML Minifier Next: Even Faster, JavaScript Minification With SWC, SVG Minification](https://meiert.com/blog/html-minifier-next-updates-3/) · 2026-01-05
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [HTML Minifier Next: Presets, New Config Options, Minification Sharing, and Type Definitions](https://meiert.com/blog/html-minifier-next-updates-2/) · 2025-12-10
 - [Comparing HTML Minifiers](https://meiert.com/blog/comparing-html-minifiers/) · 2025-12-07
 - [HTML Semantics: The Short Descriptions of All 113 Elements](https://meiert.com/blog/html-semantics-overview/) · 2025-12-02
-- [Eleventy: How to Set Up Effective HTML Minification (in 24 Seconds)](https://meiert.com/blog/eleventy-html-minification/) · 2025-11-27
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
