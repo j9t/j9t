@@ -13,7 +13,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 
 - [Moving Away From U.S. Services: A Few Favorites](https://meiert.com/blog/united-states-alternatives/) · 2026-01-21
 - [Website Optimization Measures, Part XXXV](https://meiert.com/blog/optimization-measures-35/) · 2026-01-20
-- [On Navigating a World That Burns and Suffers](https://meiert.com/blog/a-world-that-burns/) · 2026-01-17
+- [On Living in a World That Suffers and Burns](https://meiert.com/blog/a-world-that-burns/) · 2026-01-17
 - [The Largest Web Development Glossary, Now as a JetBrains IDE Plugin](https://meiert.com/blog/web-development-glossary-jetbrains-plugin/) · 2026-01-12
 - [HTML Minifier Next: Even Faster, JavaScript Minification With SWC, SVG Minification](https://meiert.com/blog/html-minifier-next-updates-3/) · 2026-01-05
 - [2025](https://meiert.com/blog/re-2025/) · 2025-12-31
