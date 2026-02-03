@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [HTML Minifier Next 5, a Quick Upgrade Guide](https://meiert.com/blog/html-minifier-next-5/) · 2026-02-01
 - [7 Ways to Manage Large-Scale Taxonomies](https://meiert.com/blog/large-scale-taxonomies/) · 2026-01-28
 - [Moving Away From U.S. Services: A Few Favorites](https://meiert.com/blog/united-states-alternatives/) · 2026-01-21
 - [Website Optimization Measures, Part XXXV](https://meiert.com/blog/optimization-measures-35/) · 2026-01-20
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [2025](https://meiert.com/blog/re-2025/) · 2025-12-31
 - [Open-Source Funding: Do We Need a “No Maintenance” Month?](https://meiert.com/blog/no-maintenance-month/) · 2025-12-17
 - [A Secret](https://meiert.com/blog/a-secret/) · 2025-12-13
-- [HTML Minifier Next: Presets, New Config Options, Minification Sharing, and Type Definitions](https://meiert.com/blog/html-minifier-next-updates-2/) · 2025-12-10
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
