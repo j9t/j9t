@@ -16,7 +16,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [How to Improve Your HTML Game](https://meiert.com/blog/improve-your-html-game/) · 2026-02-04
 - [HTML Minifier Next 5, a Quick Upgrade Guide](https://meiert.com/blog/html-minifier-next-5/) · 2026-02-01
 - [7 Ways to Manage Large-Scale Taxonomies](https://meiert.com/blog/large-scale-taxonomies/) · 2026-01-28
-- [Moving Away From U.S. Services: A Few Favorites](https://meiert.com/blog/united-states-alternatives/) · 2026-01-21
+- [Moving Away From US Services: A Few Favorites](https://meiert.com/blog/united-states-alternatives/) · 2026-01-21
 - [Website Optimization Measures, Part XXXV](https://meiert.com/blog/optimization-measures-35/) · 2026-01-20
 - [On Living in a World That Suffers and Burns](https://meiert.com/blog/a-world-that-burns/) · 2026-01-17
 - [The Largest Web Development Glossary, Now as a JetBrains IDE Plugin](https://meiert.com/blog/web-development-glossary-jetbrains-plugin/) · 2026-01-12
