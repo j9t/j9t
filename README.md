@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Yet Another War](https://meiert.com/blog/yet-another-war/) · 2026-02-27
 - [Eleventy: How to Work Around the “git Last Modified” Performance Bottleneck](https://meiert.com/blog/eleventy-git-last-modified/) · 2026-02-25
 - [A German, an American, and an Israeli Walk Into a Bar](https://meiert.com/blog/a-german-an-american-an-israeli/) · 2026-02-21
 - [Compressor.js Next](https://meiert.com/blog/compressorjs-next/) · 2026-02-11
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [7 Ways to Manage Large-Scale Taxonomies](https://meiert.com/blog/large-scale-taxonomies/) · 2026-01-28
 - [Moving Away From US Services: A Few Favorites](https://meiert.com/blog/united-states-alternatives/) · 2026-01-21
 - [Website Optimization Measures, Part XXXV](https://meiert.com/blog/optimization-measures-35/) · 2026-01-20
-- [On Living in a World That Suffers and Burns](https://meiert.com/blog/a-world-that-burns/) · 2026-01-17
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
