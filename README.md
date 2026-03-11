@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [On AI-Readying Engineering Organizations](https://meiert.com/blog/ai-readying-engineering-organizations/) · 2026-03-09
 - [The Violence Imperative](https://meiert.com/blog/the-violence-imperative/) · 2026-03-07
 - [On Lost Trust in European Leadership](https://meiert.com/blog/european-leadership/) · 2026-03-04
 - [Israel and the USA Really Declared War on Everyone](https://meiert.com/blog/israeli-american-war-on-everyone/) · 2026-02-28
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Compressor.js Next](https://meiert.com/blog/compressorjs-next/) · 2026-02-11
 - [The Beautiful Web](https://meiert.com/blog/the-beautiful-web/) · 2026-02-10
 - [How to Improve Your HTML Game](https://meiert.com/blog/improve-your-html-game/) · 2026-02-04
-- [HTML Minifier Next 5, a Quick Upgrade Guide](https://meiert.com/blog/html-minifier-next-5/) · 2026-02-01
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
