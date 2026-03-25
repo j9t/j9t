@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [The Web Development Glossary 4K](https://meiert.com/blog/the-web-development-glossary-4k/) · 2026-03-23
 - [Releasing .htaccess Punk—a Quick Helper to Check Redirects in .htaccess Files](https://meiert.com/blog/htaccess-punk/) · 2026-03-18
 - [Astro: How to Set Up More Powerful HTML Minification (in 31 Seconds)](https://meiert.com/blog/astro-html-minification/) · 2026-03-16
 - [What if They Had Spent It on Peace?](https://meiert.com/blog/investing-in-peace/) · 2026-03-14
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [On Lost Trust in European Leadership](https://meiert.com/blog/european-leadership/) · 2026-03-04
 - [Israel and the USA Really Declared War on Everyone](https://meiert.com/blog/israeli-american-war-on-everyone/) · 2026-02-28
 - [Yet Another War](https://meiert.com/blog/yet-another-war/) · 2026-02-27
-- [Eleventy: How to Work Around the “git Last Modified” Performance Bottleneck](https://meiert.com/blog/eleventy-git-last-modified/) · 2026-02-25
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
