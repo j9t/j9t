@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Website Optimization Measures, Part XXXVII](https://meiert.com/blog/optimization-measures-37/) · 2026-04-29
 - [A Decent Person](https://meiert.com/blog/a-decent-person/) · 2026-04-25
 - [26 Tips to Become a Better Engineering Manager](https://meiert.com/blog/a-better-engineering-manager/) · 2026-04-22
 - [There Is No Elite Unless It Serves the People and the Environment](https://meiert.com/blog/there-is-no-elite/) · 2026-04-18
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Releasing Searcher, a Configurable, Privacy-Minded Chromium Extension to Trigger Random Searches](https://meiert.com/blog/searcher/) · 2026-03-30
 - [“Conflict”](https://meiert.com/blog/conflict/) · 2026-03-28
 - [HTML Minifier Next: Zero-Config Mode, SVG Minification With SVGO, Even Faster](https://meiert.com/blog/html-minifier-next-updates-4/) · 2026-03-25
-- [The Web Development Glossary 4K](https://meiert.com/blog/the-web-development-glossary-4k/) · 2026-03-23
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
