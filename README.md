@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [On the Twisted Logic of Labeling Criticism of Israel as “Anti-Semitism”](https://meiert.com/blog/criticism/) · 2026-05-30
 - [Websites Are Not Going to Die](https://meiert.com/blog/websites-are-not-going-to-die/) · 2026-05-27
 - [Slavery](https://meiert.com/blog/slavery/) · 2026-05-23
 - [Releasing hihtml, a Supertool for HTML Validation, Link-Checking, and Minification](https://meiert.com/blog/hihtml/) · 2026-05-18
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [A Decent Person](https://meiert.com/blog/a-decent-person/) · 2026-04-25
 - [26 Tips to Become a Better Engineering Manager](https://meiert.com/blog/a-better-engineering-manager/) · 2026-04-22
 - [There Is No Elite Unless It Serves the People and the Environment](https://meiert.com/blog/there-is-no-elite/) · 2026-04-18
-- [AI Will Never Be Ethical or Safe](https://meiert.com/blog/ai-ethics-and-safety/) · 2026-04-13
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
