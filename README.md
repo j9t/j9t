@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [How to Provide a “Random Post” Feature With Eleventy and PHP](https://meiert.com/blog/random-posts-with-eleventy-and-php/) · 2026-06-01
 - [On the Twisted Logic of Labeling Criticism of Israel as “Anti-Semitism”](https://meiert.com/blog/criticism/) · 2026-05-30
 - [Websites Are Not Going to Die](https://meiert.com/blog/websites-are-not-going-to-die/) · 2026-05-27
 - [Slavery](https://meiert.com/blog/slavery/) · 2026-05-23
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Website Optimization Measures, Part XXXVII](https://meiert.com/blog/optimization-measures-37/) · 2026-04-29
 - [A Decent Person](https://meiert.com/blog/a-decent-person/) · 2026-04-25
 - [26 Tips to Become a Better Engineering Manager](https://meiert.com/blog/a-better-engineering-manager/) · 2026-04-22
-- [There Is No Elite Unless It Serves the People and the Environment](https://meiert.com/blog/there-is-no-elite/) · 2026-04-18
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
