@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [On the Two Sides and the Spectrum That Is Open Source Maintenance](https://meiert.com/blog/open-source-maintenance/) · 2026-06-10
 - [Beware the “First”](https://meiert.com/blog/beware-the-first/) · 2026-06-06
 - [Releasing Middleman Alerter, a Chromium Extension to Warn About Third-Party Reverse Proxies](https://meiert.com/blog/middleman-alerter/) · 2026-06-03
 - [How to Provide a “Random Post” Feature With Eleventy and PHP](https://meiert.com/blog/random-posts-with-eleventy-and-php/) · 2026-06-01
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Releasing hihtml, a Supertool for HTML Validation, Link-Checking, and Minification](https://meiert.com/blog/hihtml/) · 2026-05-18
 - [AI and HTML: Validating, Omitting Optional Code, and Minifying as Token Optimization](https://meiert.com/blog/ai-and-html/) · 2026-05-11
 - [HTML.md](https://meiert.com/blog/html.md/) · 2026-05-04
-- [Website Optimization Measures, Part XXXVII](https://meiert.com/blog/optimization-measures-37/) · 2026-04-29
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
