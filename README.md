@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Anti-Pro-Palestine as Pro-Islamophobia, Pro-Racism, Pro-Genocide](https://meiert.com/blog/anti-pro-palestine/) · 2026-06-20
 - [HTML Minifier Next 7 Is ESM-Only](https://meiert.com/blog/html-minifier-next-7/) · 2026-06-14
 - [On the Two Sides and the Spectrum That Is Open Source Maintenance](https://meiert.com/blog/open-source-maintenance/) · 2026-06-10
 - [Beware the “First”](https://meiert.com/blog/beware-the-first/) · 2026-06-06
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Websites Are Not Going to Die](https://meiert.com/blog/websites-are-not-going-to-die/) · 2026-05-27
 - [Slavery](https://meiert.com/blog/slavery/) · 2026-05-23
 - [Releasing hihtml, a Supertool for HTML Validation, Link-Checking, and Minification](https://meiert.com/blog/hihtml/) · 2026-05-18
-- [AI and HTML: Validating, Omitting Optional Code, and Minifying as Token Optimization](https://meiert.com/blog/ai-and-html/) · 2026-05-11
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
