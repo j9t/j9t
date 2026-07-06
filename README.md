@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Israel, the United States, and Their European Clients vs. the European People](https://meiert.com/blog/the-european-people/) · 2026-07-04
 - [Releasing Feed Ghost, a Dual-Purpose Web Tool to Access and Subscribe to Feeds via the Internet Archive](https://meiert.com/blog/feed-ghost/) · 2026-06-23
 - [Anti-Pro-Palestine as Pro-Islamophobia, Pro-Racism, Pro-Genocide](https://meiert.com/blog/anti-pro-palestine/) · 2026-06-20
 - [HTML Minifier Next 7 Is ESM-Only](https://meiert.com/blog/html-minifier-next-7/) · 2026-06-14
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [How to Provide a “Random Post” Feature With Eleventy and PHP](https://meiert.com/blog/random-posts-with-eleventy-and-php/) · 2026-06-01
 - [On the Twisted Logic of Labeling Criticism of Israel as “Anti-Semitism”](https://meiert.com/blog/criticism/) · 2026-05-30
 - [Websites Are Not Going to Die](https://meiert.com/blog/websites-are-not-going-to-die/) · 2026-05-27
-- [Slavery](https://meiert.com/blog/slavery/) · 2026-05-23
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
