@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [CSS: Deduplicate and Speed Up Your Style Sheets With CSS Dedup](https://meiert.com/blog/css-dedup/) · 2026-07-15
 - [Website Optimization Measures, Part XXXVIII](https://meiert.com/blog/optimization-measures-38/) · 2026-07-13
 - [AWAGAM: Easier Importing and Sharing of Blocklists With Bundles](https://meiert.com/blog/awagam-bundles/) · 2026-07-08
 - [Israel, the United States, and Their European Clients vs. the European People](https://meiert.com/blog/the-european-people/) · 2026-07-04
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [On the Two Sides and the Spectrum That Is Open Source Maintenance](https://meiert.com/blog/open-source-maintenance/) · 2026-06-10
 - [Beware the “First”](https://meiert.com/blog/beware-the-first/) · 2026-06-06
 - [Releasing Middleman Alerter, a Chromium Extension to Warn About Third-Party Reverse Proxies](https://meiert.com/blog/middleman-alerter/) · 2026-06-03
-- [How to Provide a “Random Post” Feature With Eleventy and PHP](https://meiert.com/blog/random-posts-with-eleventy-and-php/) · 2026-06-01
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
