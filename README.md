@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [HTML Minifier Next: JSON Schema, Cache Statistics, Default Config File](https://meiert.com/blog/html-minifier-next-updates-5/) · 2026-07-19
 - [CSS: Deduplicate and Speed Up Your Style Sheets With CSS Dedup](https://meiert.com/blog/css-dedup/) · 2026-07-15
 - [Website Optimization Measures, Part XXXVIII](https://meiert.com/blog/optimization-measures-38/) · 2026-07-13
 - [AWAGAM: Easier Importing and Sharing of Blocklists With Bundles](https://meiert.com/blog/awagam-bundles/) · 2026-07-08
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [HTML Minifier Next 7 Is ESM-Only](https://meiert.com/blog/html-minifier-next-7/) · 2026-06-14
 - [On the Two Sides and the Spectrum That Is Open Source Maintenance](https://meiert.com/blog/open-source-maintenance/) · 2026-06-10
 - [Beware the “First”](https://meiert.com/blog/beware-the-first/) · 2026-06-06
-- [Releasing Middleman Alerter, a Chromium Extension to Warn About Third-Party Reverse Proxies](https://meiert.com/blog/middleman-alerter/) · 2026-06-03
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
