@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [14 Tips for Working and Developing With AI](https://meiert.com/blog/ai-tips/) · 2026-07-28
 - [Syntax Highlighting: No Extra HTML for Code Blocks via Custom Highlight API and syntaxp](https://meiert.com/blog/syntax-highlighting-with-syntaxp/) · 2026-07-22
 - [HTML Minifier Next: JSON Schema, Cache Statistics, Default Config File](https://meiert.com/blog/html-minifier-next-updates-5/) · 2026-07-19
 - [CSS: Deduplicate and Speed Up Your Style Sheets With CSS Dedup](https://meiert.com/blog/css-dedup/) · 2026-07-15
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Releasing Feed Ghost, a Dual-Purpose Web Tool to Access and Subscribe to Feeds via the Internet Archive](https://meiert.com/blog/feed-ghost/) · 2026-06-23
 - [Anti-Pro-Palestine as Pro-Islamophobia, Pro-Racism, Pro-Genocide](https://meiert.com/blog/anti-pro-palestine/) · 2026-06-20
 - [HTML Minifier Next 7 Is ESM-Only](https://meiert.com/blog/html-minifier-next-7/) · 2026-06-14
-- [On the Two Sides and the Spectrum That Is Open Source Maintenance](https://meiert.com/blog/open-source-maintenance/) · 2026-06-10
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
