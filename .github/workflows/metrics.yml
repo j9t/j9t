@@ -1,11 +1,10 @@
 name: "Metrics"
 
 on:
-  # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow when pushing on master/main
-  push:
-    branches: [main]
+  schedule:
+    # Schedule twice-weekly updates (offset avoids top-of-hour queue spikes)
+    # https://crontab.guru/
+    - cron: "17 4 * * 1,4"
   # (optional) Run workflow manually
   workflow_dispatch:
 
@@ -17,11 +16,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           token: ${{ secrets.METRICS }}
       - name: "Calendar"
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
           filename: github-metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS }}

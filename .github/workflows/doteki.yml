@@ -1,8 +1,10 @@
 name: "dōteki"
 
 on:
-  schedule: [{cron: "0 0 * * *"}]
-  push: {branches: ["main"]}
+  schedule:
+    # Schedule twice-weekly updates (offset avoids top-of-hour queue spikes)
+    # https://crontab.guru/
+    - cron: "17 4 * * 1,4"
   workflow_dispatch:
 
 jobs:
@@ -12,6 +14,6 @@ jobs:
       contents: write
     steps:
       - name: "Run dōteki action"
-        uses: welpo/doteki-action@main
+        uses: welpo/doteki-action@5d5884c61e6cd911af552ad3343327f974aaac76
         env:
           GITHUB_TOKEN: ${{ secrets.DOTEKI }}
