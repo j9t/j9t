@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Sanctions Against Israel and the US—and an International Military Mission to End Israeli Colonization and Warmongering](https://meiert.com/blog/sanctions-and-military-mission/) · 2026-08-01
 - [14 Tips for Working and Developing With AI](https://meiert.com/blog/ai-tips/) · 2026-07-28
 - [Syntax Highlighting: No Extra HTML for Code Blocks via Custom Highlight API and syntaxp](https://meiert.com/blog/syntax-highlighting-with-syntaxp/) · 2026-07-22
 - [HTML Minifier Next: JSON Schema, Cache Statistics, Default Config File](https://meiert.com/blog/html-minifier-next-updates-5/) · 2026-07-19
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Israel, the United States, and Their European Clients vs. the European People](https://meiert.com/blog/the-european-people/) · 2026-07-04
 - [Releasing Feed Ghost, a Dual-Purpose Web Tool to Access and Subscribe to Feeds via the Internet Archive](https://meiert.com/blog/feed-ghost/) · 2026-06-23
 - [Anti-Pro-Palestine as Pro-Islamophobia, Pro-Racism, Pro-Genocide](https://meiert.com/blog/anti-pro-palestine/) · 2026-06-20
-- [HTML Minifier Next 7 Is ESM-Only](https://meiert.com/blog/html-minifier-next-7/) · 2026-06-14
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
