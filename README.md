@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Western Hypocrisy Is Western Supremacism](https://meiert.com/blog/western-supremacism/) · 2026-08-08
 - [Maybe the “Webmaster” Isn’t Dead After All](https://meiert.com/blog/the-webmaster/) · 2026-08-04
 - [Sanctions Against Israel and the US—and an International Military Mission to End Israeli Colonization and Warmongering](https://meiert.com/blog/sanctions-and-military-mission/) · 2026-08-01
 - [14 Tips for Working and Developing With AI](https://meiert.com/blog/ai-tips/) · 2026-07-28
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Website Optimization Measures, Part XXXVIII](https://meiert.com/blog/optimization-measures-38/) · 2026-07-13
 - [AWAGAM: Easier Importing and Sharing of Blocklists With Bundles](https://meiert.com/blog/awagam-bundles/) · 2026-07-08
 - [Israel, the United States, and Their European Clients vs. the European People](https://meiert.com/blog/the-european-people/) · 2026-07-04
-- [Releasing Feed Ghost, a Dual-Purpose Web Tool to Access and Subscribe to Feeds via the Internet Archive](https://meiert.com/blog/feed-ghost/) · 2026-06-23
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
