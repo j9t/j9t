@@ -11,6 +11,8 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [How to Kill Fascism](https://meiert.com/blog/how-to-kill-fascism/) · 2026-08-15
+- [Ethics in Tech Publishing: On Human Rights and the Middle East](https://meiert.com/blog/ethics-in-tech-publishing/) · 2026-08-13
 - [5 Useful npx Helpers](https://meiert.com/blog/5-npx-helpers/) · 2026-08-11
 - [Western Hypocrisy Is Western Supremacism](https://meiert.com/blog/western-supremacism/) · 2026-08-08
 - [Maybe the “Webmaster” Isn’t Dead After All](https://meiert.com/blog/the-webmaster/) · 2026-08-04
@@ -19,8 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Syntax Highlighting: No Extra HTML for Code Blocks via Custom Highlight API and syntaxp](https://meiert.com/blog/syntax-highlighting-with-syntaxp/) · 2026-07-22
 - [HTML Minifier Next: JSON Schema, Cache Statistics, Default Config File](https://meiert.com/blog/html-minifier-next-updates-5/) · 2026-07-19
 - [CSS: Deduplicate and Speed Up Your Style Sheets With CSS Dedup](https://meiert.com/blog/css-dedup/) · 2026-07-15
-- [Website Optimization Measures, Part XXXVIII](https://meiert.com/blog/optimization-measures-38/) · 2026-07-13
-- [AWAGAM: Easier Importing and Sharing of Blocklists With Bundles](https://meiert.com/blog/awagam-bundles/) · 2026-07-08
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
