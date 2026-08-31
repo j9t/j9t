@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [The Trolley Problem but Difficult?](https://meiert.com/blog/the-trolley-problem/) · 2026-08-29
 - [Website Optimization Measures, Part XXXIX](https://meiert.com/blog/optimization-measures-39/) · 2026-08-24
 - [AI-Assisted Development Means Test-First Development](https://meiert.com/blog/ai-and-tests/) · 2026-08-19
 - [How to Kill Fascism](https://meiert.com/blog/how-to-kill-fascism/) · 2026-08-15
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Maybe the “Webmaster” Isn’t Dead After All](https://meiert.com/blog/the-webmaster/) · 2026-08-04
 - [Sanctions Against Israel and the US—and an International Military Mission to End Israeli Colonization and Warmongering](https://meiert.com/blog/sanctions-and-military-mission/) · 2026-08-01
 - [14 Tips for Working and Developing With AI](https://meiert.com/blog/ai-tips/) · 2026-07-28
-- [Syntax Highlighting: No Extra HTML for Code Blocks via Custom Highlight API and syntaxp](https://meiert.com/blog/syntax-highlighting-with-syntaxp/) · 2026-07-22
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
