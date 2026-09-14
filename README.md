@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [2026: 2 of the Global Top 200 Websites Use Valid HTML](https://meiert.com/blog/html-conformance-2026/) · 2026-09-09
 - [Stop Linking Terrorism With Religion](https://meiert.com/blog/terrorism-and-religion/) · 2026-09-05
 - [HTML Minifier Next: Unused-CSS Removal, Improved Web Demo, and Greater Versatility, Security, and Performance](https://meiert.com/blog/html-minifier-next-updates-6/) · 2026-09-02
 - [The Trolley Problem but Difficult?](https://meiert.com/blog/the-trolley-problem/) · 2026-08-29
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Ethics in Tech Publishing: On Human Rights and the Middle East](https://meiert.com/blog/ethics-in-tech-publishing/) · 2026-08-13
 - [5 Useful npx Helpers](https://meiert.com/blog/5-npx-helpers/) · 2026-08-11
 - [Western Hypocrisy Is Western Supremacism](https://meiert.com/blog/western-supremacism/) · 2026-08-08
-- [Maybe the “Webmaster” Isn’t Dead After All](https://meiert.com/blog/the-webmaster/) · 2026-08-04
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
