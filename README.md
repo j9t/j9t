@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [On the Engineering Philosophy for HTML Minifier Next](https://meiert.com/blog/html-minifier-next-engineering-philosophy/) · 2026-09-22
 - [Every Place That Sells Food Should Offer a Vegan Option](https://meiert.com/blog/vegan-food-everywhere/) · 2026-09-19
 - [On Respect and Gratitude in Open Source](https://meiert.com/blog/respect-in-open-source/) · 2026-09-16
 - [2026: 2 of the Global Top 200 Websites Use Valid HTML](https://meiert.com/blog/html-conformance-2026/) · 2026-09-09
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Website Optimization Measures, Part XXXIX](https://meiert.com/blog/optimization-measures-39/) · 2026-08-24
 - [AI-Assisted Development Means Test-First Development](https://meiert.com/blog/ai-and-tests/) · 2026-08-19
 - [How to Kill Fascism](https://meiert.com/blog/how-to-kill-fascism/) · 2026-08-15
-- [Ethics in Tech Publishing: On Human Rights and the Middle East](https://meiert.com/blog/ethics-in-tech-publishing/) · 2026-08-13
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
