@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [The AWAGAM Request Blocker, Now Available on Android](https://meiert.com/blog/awagam-android/) · 2026-09-28
 - [I’m Giving Up on Outreach to Parties and Governments](https://meiert.com/blog/operation-transponder/) · 2026-09-25
 - [On the Engineering Philosophy for HTML Minifier Next](https://meiert.com/blog/html-minifier-next-engineering-philosophy/) · 2026-09-22
 - [Every Place That Sells Food Should Offer a Vegan Option](https://meiert.com/blog/vegan-food-everywhere/) · 2026-09-19
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [HTML Minifier Next: Unused-CSS Removal, Improved Web Demo, and Greater Versatility, Security, and Performance](https://meiert.com/blog/html-minifier-next-updates-6/) · 2026-09-02
 - [The Trolley Problem but Difficult?](https://meiert.com/blog/the-trolley-problem/) · 2026-08-29
 - [Website Optimization Measures, Part XXXIX](https://meiert.com/blog/optimization-measures-39/) · 2026-08-24
-- [AI-Assisted Development Means Test-First Development](https://meiert.com/blog/ai-and-tests/) · 2026-08-19
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
