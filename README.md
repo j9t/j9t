@@ -11,6 +11,8 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [How to Set Up Web Page Minification With Jekyll](https://meiert.com/blog/web-page-minification-with-jekyll/) · 2026-10-20
+- [How to Set Up Web Page Minification With VitePress](https://meiert.com/blog/web-page-minification-with-vitepress/) · 2026-10-19
 - [On Not Changing as You Grow Older](https://meiert.com/blog/age-and-change/) · 2026-10-17
 - [CSS Optimization: Is Using Declarations Just Once (UDJO) Still Effective Today?](https://meiert.com/blog/css-optimization-with-udjo/) · 2026-10-12
 - [A Short Theory of the Political Spectrum](https://meiert.com/blog/the-political-spectrum/) · 2026-10-10
@@ -19,8 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [We Need to Protect Muslims](https://meiert.com/blog/protect-muslims/) · 2026-10-03
 - [The AWAGAM Request Blocker, Now Available on Android](https://meiert.com/blog/awagam-android/) · 2026-09-28
 - [I’m Giving Up on Outreach to Parties and Governments](https://meiert.com/blog/operation-transponder/) · 2026-09-25
-- [On the Engineering Philosophy for HTML Minifier Next](https://meiert.com/blog/html-minifier-next-engineering-philosophy/) · 2026-09-22
-- [Every Place That Sells Food Should Offer a Vegan Option](https://meiert.com/blog/vegan-food-everywhere/) · 2026-09-19
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
