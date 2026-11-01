@@ -14,6 +14,6 @@ jobs:
       contents: write
     steps:
       - name: "Run dōteki action"
-        uses: welpo/doteki-action@5d5884c61e6cd911af552ad3343327f974aaac76
+        uses: welpo/doteki-action@ee3e62c525039fc1cf303b8ae4563b0df4beea07
         env:
           GITHUB_TOKEN: ${{ secrets.DOTEKI }}
