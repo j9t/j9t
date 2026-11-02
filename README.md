@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Whether AI Will Be Catastrophic for Software Development Depends on Maintenance—and a Decision](https://meiert.com/blog/catastrophic-ai/) · 2026-10-28
 - [Automatic Internal Linking in WordPress, a Plugin: ntrnllnk](https://meiert.com/blog/ntrnllnk-wordpress-linking/) · 2026-10-26
 - [HTML Minifier Next: Extended Benchmarks, Self-Close Foreign Elements, Fewer Redundant Attributes, JSON Minification Opt-In](https://meiert.com/blog/html-minifier-next-updates-8/) · 2026-10-22
 - [How to Set Up Web Page Minification With Jekyll](https://meiert.com/blog/web-page-minification-with-jekyll/) · 2026-10-20
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [A Short Theory of the Political Spectrum](https://meiert.com/blog/the-political-spectrum/) · 2026-10-10
 - [On the Decision Underlying Decorative Images](https://meiert.com/blog/decorative-images/) · 2026-10-07
 - [HTML Minifier Next: Exempt CSS, JS, and SVG From Minification, Collapse No-Break Spaces and Empty Attributes, Higher Correctness](https://meiert.com/blog/html-minifier-next-updates-7/) · 2026-10-05
-- [We Need to Protect Muslims](https://meiert.com/blog/protect-muslims/) · 2026-10-03
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
