@@ -11,6 +11,7 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 <!-- blog start -->
 ## From [My Blog](https://meiert.com/)
 
+- [Why I Don’t Like (and Don’t Recommend) Website Checklists](https://meiert.com/blog/i-dont-like-website-checklists/) · 2026-11-17
 - [Two Underappreciated Observations About Our Exposure to Other Humans](https://meiert.com/blog/two-people/) · 2026-11-14
 - [CSS Deduplication and File Size: What’s Left After Compression](https://meiert.com/blog/css-deduplication-and-compression/) · 2026-11-11
 - [How to Create, Edit, and Validate AWAGAM Blocklists](https://meiert.com/blog/edit-awagam-blocklists/) · 2026-11-09
@@ -20,7 +21,6 @@ Hi, I’m Jens (/jɛns/), and you may know me from [meiert.com](https://meiert.c
 - [Automatic Internal Linking in WordPress, a Plugin: ntrnllnk](https://meiert.com/blog/ntrnllnk-wordpress-linking/) · 2026-10-26
 - [How to Set Up Web Page Minification With Jekyll](https://meiert.com/blog/web-page-minification-with-jekyll/) · 2026-10-20
 - [How to Set Up Web Page Minification With VitePress](https://meiert.com/blog/web-page-minification-with-vitepress/) · 2026-10-19
-- [On Not Changing as You Grow Older](https://meiert.com/blog/age-and-change/) · 2026-10-17
 <!-- blog end -->
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
